@@ -13,7 +13,8 @@
       "src": "./img/laptop-pf-pic.png",
       "title": "Portfolio Website",
       "description": "Personal portfolio displaying my projects and technical experiences using React and Canva to design it’s layout",
-      "link": "View In Github"
+      "link": "View In Github",
+      "page": "https://github.com/nafrifahadae/react-portfolio"
     },
     {
       "id": "3",
