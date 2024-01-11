@@ -1,0 +1,26 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/weather-icon.png",
+      "title": "Open Weather App",
+      "description": "Weather-app web application using JavaScript and an API to provide accurate and quick responses, HTML and CSS used to style and design",
+      "link": "View In Github",
+      "page": "https://github.com/nafrifahadae/weather-app"
+    },
+    {
+      "id": "2",
+      "src": "./img/laptop-pf-pic.png",
+      "title": "Portfolio Website",
+      "description": "Personal portfolio displaying my projects and technical experiences using React and Canva to design it’s layout",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/ballon-dor.webp",
+      "title": "Ballon D'or Database",
+      "description": "Database storing previous Ballon D’or (footballer award) awards using Python and MySQL with CRUD abilities for user",
+      "link": "COMING SOON"
+    }
+  ]
+}
